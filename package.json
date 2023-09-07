@@ -1,0 +1,22 @@
+{
+  "name": "dpl-light-theme",
+  "displayName": "DPL Light Theme",
+  "description": "Light Theme by Mr. Deab Phalla.",
+  "version": "0.0.2",
+  "publisher": "dpllighttheme",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DPL Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/dpl-light-color-theme.json"
+      }
+    ]
+  }
+}
