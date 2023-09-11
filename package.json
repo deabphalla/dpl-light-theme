@@ -2,7 +2,7 @@
   "name": "dpl-light-theme",
   "displayName": "DPL Light Theme",
   "description": "Light Theme by Mr. Deab Phalla.",
-  "version": "0.0.2",
+  "version": "1.0.1",
   "publisher": "dpllighttheme",
   "engines": {
     "vscode": "^1.81.0"
