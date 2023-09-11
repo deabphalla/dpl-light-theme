@@ -889,15 +889,6 @@
 		},
 		{
 			"scope": [
-				"markup.fenced_code.block.markdown" // Markdown Block Code
-			],
-			"settings": {
-				"foreground": "#f13acd",
-				// "fontStyle": "italic"
-			},
-		},
-		{
-			"scope": [
 				"markup.bold.markdown"
 			],
 			"settings": {
