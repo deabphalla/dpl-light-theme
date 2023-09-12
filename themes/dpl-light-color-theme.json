@@ -806,6 +806,12 @@
 			}
 		},
 		{
+			"scope": "comment",
+			"settings": {
+				"foreground": "#7c7c7c"
+			}
+		},
+		{
 			"scope": "constant.language",
 			"settings": {
 				"foreground": "#0000FF"
