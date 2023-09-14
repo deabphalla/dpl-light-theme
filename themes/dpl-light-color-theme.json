@@ -1378,26 +1378,31 @@
 		},
 		{
 			"scope": [
-				"entity.name.function.python",
-				"meta.function-call.generic.python",
-				"support.function.builtin.python",
 				"constant.language.python",
-				"constant.numeric.dec.python"
+				"constant.numeric.dec.python",
+				"storage.type.function.python",
+				"storage.type.class.python",
+				"keyword.control.flow.python",
 			],
 			"settings": {
-				"foreground": "#A900B9",
-				"foreground": "#3535ed",
+				// "foreground": "#9a00b9",
+				"foreground": "#4f4f4f",
 			},
 		},
 		{
 			"scope": [
 				"keyword.control.import.python",
-				"storage.type.function.python",
-				"keyword.control.flow.python",
 				"meta.member.access.python",
 				"keyword.operator.logical.python",
 				"keyword.operator.assignment.python",
 				"string.quoted.single.python",
+				"entity.name.function.python",
+				"meta.function-call.generic.python",
+				"support.function.builtin.python",
+				"support.type.python",
+				"support.type.exception.python",
+				"variable.parameter.function.language.special.self.python",
+				"variable.language.special.self.python",
 			],
 			"settings": {
 				"foreground": "#921736",
@@ -1409,19 +1414,12 @@
 			],
 			"settings": {
 				"foreground": "#285c79",
-			},
-		},
-		{
-			"scope": [],
-			"settings": {
-				"foreground": "#131c94",
+				
 			},
 		},
 		{
 			"scope": [
 				"entity.name.type.class.python",
-				"variable.parameter.function.language.special.self.python",
-				"variable.language.special.self.python",
 			],
 			"settings": {
 				"foreground": "#A900B9",
@@ -1442,7 +1440,8 @@
 				"string.quoted.docstring.multi.python" // Docstring
 			],
 			"settings": {
-				"foreground": "#7c7c7c",
+				// "foreground": "#7c7c7c",
+				"foreground": "#158117",
 				"fontStyle": "italic"
 			},
 		},
