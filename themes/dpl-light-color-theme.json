@@ -1440,8 +1440,8 @@
 				"string.quoted.docstring.multi.python" // Docstring
 			],
 			"settings": {
-				// "foreground": "#7c7c7c",
-				"foreground": "#158117",
+				// "foreground": "#158117",
+				"foreground": "#7c7c7c",
 				"fontStyle": "italic"
 			},
 		},
